@@ -1,0 +1,31 @@
+.nav-link {
+  color: #000 !important;
+}
+
+.nav-link.active {
+  color: #000 !important;
+  background-color: #efefef !important;
+  font-weight: bold;
+}
+
+.st-ca-storage-title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#v-pills-tab {
+  width: 30%;
+}
+
+#v-pills-tab .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  
+}
+
+
+#v-pills-tabContent {
+  width: 70%;
+}
